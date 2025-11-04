@@ -1,0 +1,4 @@
+email,first_name,last_name,course_id,grade,marks
+sam@mycsu.edu,Sam,Carpenter,DATA200,A,96.00
+ann@mycsu.edu,Ann,Lee,DATA200,B,84.00
+bob@mycsu.edu,Bob,Nguyen,DATA200,A,92.00
